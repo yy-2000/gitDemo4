@@ -7,5 +7,6 @@ package com.yy;
 public class Test {
     public static void main(String[] args) {
         System.out.println("maven test git1");
+        System.out.println("maven test git2");
     }
 }
