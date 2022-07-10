@@ -11,5 +11,6 @@ public class Test {
         System.out.println("maven test git4");
         System.out.println("master分支 冲突合并");
         System.out.println("hot-fix 冲突合并");
+        System.out.println("测试本地库推送远程库");
     }
 }
