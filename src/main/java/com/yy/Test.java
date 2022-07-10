@@ -9,5 +9,6 @@ public class Test {
         System.out.println("maven test git1");
         System.out.println("maven test git2");
         System.out.println("maven test git4");
+        System.out.println("master分支 冲突合并");
     }
 }
